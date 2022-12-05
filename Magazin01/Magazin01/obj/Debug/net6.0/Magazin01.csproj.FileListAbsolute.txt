@@ -1,0 +1,15 @@
+C:\Users\vovan\source\repos\Magazin01\Magazin01\bin\Debug\net6.0\Magazin01.exe
+C:\Users\vovan\source\repos\Magazin01\Magazin01\bin\Debug\net6.0\Magazin01.deps.json
+C:\Users\vovan\source\repos\Magazin01\Magazin01\bin\Debug\net6.0\Magazin01.runtimeconfig.json
+C:\Users\vovan\source\repos\Magazin01\Magazin01\bin\Debug\net6.0\Magazin01.dll
+C:\Users\vovan\source\repos\Magazin01\Magazin01\bin\Debug\net6.0\Magazin01.pdb
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.csproj.AssemblyReference.cache
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.AssemblyInfoInputs.cache
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.AssemblyInfo.cs
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.csproj.CoreCompileInputs.cache
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.dll
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\refint\Magazin01.dll
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.pdb
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\Magazin01.genruntimeconfig.cache
+C:\Users\vovan\source\repos\Magazin01\Magazin01\obj\Debug\net6.0\ref\Magazin01.dll
